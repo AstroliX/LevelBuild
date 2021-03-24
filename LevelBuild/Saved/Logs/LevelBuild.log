@@ -2048,3 +2048,379 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.24-15.43.32:369][589]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_TriplanarPurple.MI_TriplanarPurple
 [2021.03.24-15.43.32:369][589]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_TriplanarGray.MI_TriplanarGray
 [2021.03.24-15.43.32:369][589]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_TriplanarWhite.MI_TriplanarWhite
+[2021.03.24-15.47.45:240][657]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Islands_SetUp\SM_IslandPoor.fbx)
+[2021.03.24-15.47.45:251][657]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Islands_SetUp\SM_IslandPoor.fbx
+[2021.03.24-15.47.45:257][657]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.47.46:542][657]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.24-15.47.46:563][657]LogStaticMesh: Building static mesh SM_IslandPoor...
+[2021.03.24-15.47.46:569][657]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_IslandPoor.SM_IslandPoor
+[2021.03.24-15.47.46:579][657]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.24-15.47.46:661][657]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Islands_SetUp\SM_IslandRich.fbx)
+[2021.03.24-15.47.46:688][657]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Islands_SetUp\SM_IslandRich.fbx
+[2021.03.24-15.47.46:694][657]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.47.46:696][657]LogStaticMesh: Building static mesh SM_IslandRich...
+[2021.03.24-15.47.46:698][657]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/SM_IslandRich.SM_IslandRich
+[2021.03.24-15.47.46:704][657]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.24-15.47.46:708][657]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Islands_SetUp\SM_Bridge.fbx)
+[2021.03.24-15.47.46:717][657]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Islands_SetUp\SM_Bridge.fbx
+[2021.03.24-15.47.46:724][657]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.47.46:727][657]LogStaticMesh: Building static mesh SM_Bridge...
+[2021.03.24-15.47.46:743][657]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/SM_Bridge.SM_Bridge
+[2021.03.24-15.47.46:744][657]LogStaticMesh: Warning: SM_Bridge has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.24-15.47.46:744][657]LogStaticMesh: Warning: SM_Bridge has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.24-15.47.46:751][657]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.24-15.47.46:751][657]FBXImport: Warning: SM_Bridge has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.24-15.47.46:751][657]FBXImport: Warning: SM_Bridge has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.24-15.47.46:754][657]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Islands_SetUp\SM_CliffRocks1.fbx)
+[2021.03.24-15.47.46:764][657]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Islands_SetUp\SM_CliffRocks1.fbx
+[2021.03.24-15.47.46:769][657]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.47.46:770][657]LogFbx: Display: Triangulating static mesh Box007
+[2021.03.24-15.47.46:773][657]LogStaticMesh: Building static mesh SM_CliffRocks1...
+[2021.03.24-15.47.46:775][657]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/SM_CliffRocks1.SM_CliffRocks1
+[2021.03.24-15.47.46:775][657]LogStaticMesh: Warning: SM_CliffRocks1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.24-15.47.46:775][657]LogStaticMesh: Warning: SM_CliffRocks1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.24-15.47.46:781][657]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.24-15.47.46:781][657]FBXImport: Warning: SM_CliffRocks1 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.24-15.47.46:781][657]FBXImport: Warning: SM_CliffRocks1 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.24-15.47.46:784][657]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Islands_SetUp\SM_CliffRocks2.fbx)
+[2021.03.24-15.47.46:793][657]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Islands_SetUp\SM_CliffRocks2.fbx
+[2021.03.24-15.47.46:798][657]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.47.46:799][657]LogFbx: Display: Triangulating static mesh Box006
+[2021.03.24-15.47.46:803][657]LogStaticMesh: Building static mesh SM_CliffRocks2...
+[2021.03.24-15.47.46:805][657]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/SM_CliffRocks2.SM_CliffRocks2
+[2021.03.24-15.47.46:810][657]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.24-15.47.46:812][657]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Islands_SetUp\SM_CliffRocks3.fbx)
+[2021.03.24-15.47.46:822][657]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Islands_SetUp\SM_CliffRocks3.fbx
+[2021.03.24-15.47.46:828][657]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.47.46:828][657]LogFbx: Display: Triangulating static mesh Box005
+[2021.03.24-15.47.46:833][657]LogStaticMesh: Building static mesh SM_CliffRocks3...
+[2021.03.24-15.47.46:836][657]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/SM_CliffRocks3.SM_CliffRocks3
+[2021.03.24-15.47.46:842][657]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.24-15.47.50:096][808]LogSlate: Window 'Message Log' being destroyed
+[2021.03.24-15.47.50:104][808]LogSlate: Window 'Message Log' being destroyed
+[2021.03.24-15.48.00:874][347]LogActorFactory: Actor Factory created SM_Bridge
+[2021.03.24-15.48.00:875][347]LogActorFactory: Actor Factory created SM_CliffRocks1
+[2021.03.24-15.48.00:875][347]LogActorFactory: Actor Factory created SM_CliffRocks2
+[2021.03.24-15.48.00:876][347]LogActorFactory: Actor Factory created SM_CliffRocks3
+[2021.03.24-15.48.00:876][347]LogActorFactory: Actor Factory created SM_IslandPoor
+[2021.03.24-15.48.00:877][347]LogActorFactory: Actor Factory created SM_IslandRich
+[2021.03.24-15.48.02:706][451]LogActorFactory: Actor Factory created SM_Bridge
+[2021.03.24-15.48.02:722][451]LogActorFactory: Actor Factory created SM_CliffRocks1
+[2021.03.24-15.48.02:737][451]LogActorFactory: Actor Factory created SM_CliffRocks2
+[2021.03.24-15.48.02:751][451]LogActorFactory: Actor Factory created SM_CliffRocks3
+[2021.03.24-15.48.02:765][451]LogActorFactory: Actor Factory created SM_IslandPoor
+[2021.03.24-15.48.02:779][451]LogActorFactory: Actor Factory created SM_IslandRich
+[2021.03.24-15.48.03:316][474]Cmd: TRANSACTION UNDO
+[2021.03.24-15.48.03:316][474]LogEditorTransaction: Undo Create Actors
+[2021.03.24-15.48.04:751][538]LogActorFactory: Actor Factory created SM_Bridge
+[2021.03.24-15.48.05:821][601]LogActorFactory: Actor Factory created SM_Bridge
+[2021.03.24-15.48.06:415][636]LogActorFactory: Actor Factory created SM_Bridge
+[2021.03.24-15.48.08:437][756]Cmd: TRANSACTION UNDO
+[2021.03.24-15.48.08:437][756]LogEditorTransaction: Undo Create Actors
+[2021.03.24-15.48.12:201][961]LogActorFactory: Actor Factory created SM_CliffRocks1
+[2021.03.24-15.48.13:076][ 12]LogActorFactory: Actor Factory created SM_CliffRocks1
+[2021.03.24-15.48.28:240][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Islands01)
+[2021.03.24-15.48.31:797][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CliffRocks1)
+[2021.03.24-15.48.59:005][747]LogActorFactory: Actor Factory created SM_CliffRocks2
+[2021.03.24-15.48.59:485][775]LogActorFactory: Actor Factory created SM_CliffRocks2
+[2021.03.24-15.49.06:448][184]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/GrandIle.GrandIle:PersistentLevel.SM_CliffRocks2_126.StaticMeshComponent0)
+[2021.03.24-15.49.07:166][227]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/GrandIle.GrandIle:PersistentLevel.SM_CliffRocks2_126.StaticMeshComponent0)
+[2021.03.24-15.49.11:645][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Islands01)
+[2021.03.24-15.49.12:036][517]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CliffRocks2)
+[2021.03.24-15.49.26:759][394]LogActorFactory: Actor Factory created SM_CliffRocks3
+[2021.03.24-15.49.27:130][415]LogActorFactory: Actor Factory created SM_CliffRocks3
+[2021.03.24-15.49.41:674][273]LogActorFactory: Actor Factory created SM_IslandRich
+[2021.03.24-15.49.42:334][312]LogActorFactory: Actor Factory created SM_IslandRich
+[2021.03.24-15.50.13:379][163]Cmd: TRANSACTION UNDO
+[2021.03.24-15.50.13:379][163]LogEditorTransaction: Undo Move Actors
+[2021.03.24-15.50.21:124][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Islands01)
+[2021.03.24-15.50.25:373][858]LogActorFactory: Actor Factory created SM_IslandPoor
+[2021.03.24-15.50.25:959][892]LogActorFactory: Actor Factory created SM_IslandPoor
+[2021.03.24-15.50.27:181][961]Cmd: TRANSACTION UNDO
+[2021.03.24-15.50.27:181][961]LogEditorTransaction: Undo Create Actors
+[2021.03.24-15.50.28:059][992]LogActorFactory: Actor Factory created SM_IslandPoor
+[2021.03.24-15.50.28:733][ 30]LogActorFactory: Actor Factory created SM_IslandPoor
+[2021.03.24-15.50.37:285][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_IslandRich)
+[2021.03.24-15.50.51:256][368]Cmd: DELETE
+[2021.03.24-15.50.51:256][368]Cmd: ACTOR DELETE
+[2021.03.24-15.50.51:258][368]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.24-15.50.51:266][368]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.03.24-15.50.51:268][368]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2021.03.24-15.50.53:026][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_IslandRich)
+[2021.03.24-15.51.10:827][526]LogEditorViewport: Clicking Background
+[2021.03.24-15.51.11:227][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_IslandRich)
+[2021.03.24-15.51.12:383][617]Cmd: TRANSACTION UNDO
+[2021.03.24-15.51.12:383][617]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.24-15.51.13:215][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_IslandRich)
+[2021.03.24-15.51.18:361][957]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/GrandIle.GrandIle:PersistentLevel.SM_IslandRich_134.StaticMeshComponent0)
+[2021.03.24-15.51.18:745][980]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/GrandIle.GrandIle:PersistentLevel.SM_IslandRich_134.StaticMeshComponent0)
+[2021.03.24-15.51.18:748][980]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/GrandIle.GrandIle:PersistentLevel.SM_IslandRich_134.StaticMeshComponent0)
+[2021.03.24-15.51.18:829][985]Cmd: TRANSACTION UNDO
+[2021.03.24-15.51.18:829][985]LogEditorTransaction: Undo Scale Actors
+[2021.03.24-15.51.18:829][985]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/Maps/GrandIle.GrandIle:PersistentLevel.SM_IslandRich_134.StaticMeshComponent0)
+[2021.03.24-15.51.22:639][197]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Islands01)
+[2021.03.24-15.51.23:471][245]Cmd: TRANSACTION UNDO
+[2021.03.24-15.51.23:471][245]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.24-15.51.23:863][255]Cmd: TRANSACTION UNDO
+[2021.03.24-15.51.23:863][255]LogEditorTransaction: Undo Clicking on Actors
+[2021.03.24-15.51.24:095][265]Cmd: TRANSACTION UNDO
+[2021.03.24-15.51.24:097][265]LogEditorTransaction: Undo Clicking Background
+[2021.03.24-15.51.24:386][279]Cmd: TRANSACTION UNDO
+[2021.03.24-15.51.24:386][279]LogEditorTransaction: Undo Set Scale
+[2021.03.24-15.51.26:452][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_IslandRich)
+[2021.03.24-15.51.30:207][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_IslandPoor)
+[2021.03.24-15.51.57:324][238]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_IslandRich)
+[2021.03.24-15.52.01:301][472]LogEditorViewport: Clicking Background
+[2021.03.24-15.52.01:548][487]Cmd: TRANSACTION UNDO
+[2021.03.24-15.52.01:548][487]LogEditorTransaction: Undo Clicking Background
+[2021.03.24-15.52.01:883][496]Cmd: TRANSACTION UNDO
+[2021.03.24-15.52.01:883][496]LogEditorTransaction: Undo Set Location
+[2021.03.24-15.52.03:115][565]Cmd: TRANSACTION UNDO
+[2021.03.24-15.52.03:116][565]LogEditorTransaction: Undo Set Location
+[2021.03.24-15.52.04:583][653]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_IslandPoor)
+[2021.03.24-15.52.30:887][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Islands01)
+[2021.03.24-15.52.31:726][275]Cmd: DELETE
+[2021.03.24-15.52.31:726][275]Cmd: ACTOR DELETE
+[2021.03.24-15.52.31:728][275]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.03.24-15.52.31:733][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.03.24-15.52.31:736][275]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2021.03.24-15.52.35:934][527]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Tente01)
+[2021.03.24-15.52.46:335][147]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Etabli)
+[2021.03.24-15.53.23:997][351]LogActorFactory: Actor Factory created SM_Bridge
+[2021.03.24-15.53.24:416][373]LogActorFactory: Actor Factory created SM_Bridge
+[2021.03.24-15.53.36:396][ 82]Cmd: TRANSACTION UNDO
+[2021.03.24-15.53.36:396][ 82]LogEditorTransaction: Undo Move Actors
+[2021.03.24-15.54.05:688][809]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_IslandRich)
+[2021.03.24-15.54.16:099][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Bridge)
+[2021.03.24-15.54.27:175][ 92]Cmd: TRANSACTION UNDO
+[2021.03.24-15.54.27:175][ 92]LogEditorTransaction: Undo Move Actors
+[2021.03.24-15.54.30:865][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_IslandRich)
+[2021.03.24-15.55.19:475][818]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.03.24-15.55.19:487][818]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/GrandIle_Auto3A1AF579C4760A17065BC258CF2A4B9D2.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/Autosaves/Game/Maps/GrandIle_Auto3.umap'
+[2021.03.24-15.55.19:489][818]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/GrandIle' took 0.020
+[2021.03.24-15.55.19:490][818]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2021.03.24-15.55.19:532][818]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/SM_IslandPoor] ([1] browsable assets)...
+[2021.03.24-15.55.19:546][818]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/SM_IslandPoor.SM_IslandPoor]
+[2021.03.24-15.55.19:546][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/SM_IslandPoor]
+[2021.03.24-15.55.19:561][818]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_IslandPoor_Auto309705771440713133CA8D4A6033AB63C.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/Autosaves/Game/Geometry/Meshes/SM_IslandPoor_Auto3.uasset'
+[2021.03.24-15.55.19:564][818]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/SM_IslandRich] ([1] browsable assets)...
+[2021.03.24-15.55.19:577][818]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/SM_IslandRich.SM_IslandRich]
+[2021.03.24-15.55.19:578][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/SM_IslandRich]
+[2021.03.24-15.55.19:589][818]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_IslandRich_Auto3144E15B34F2C362C97C1309F91582135.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/Autosaves/Game/Geometry/Meshes/SM_IslandRich_Auto3.uasset'
+[2021.03.24-15.55.19:593][818]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/SM_Bridge] ([1] browsable assets)...
+[2021.03.24-15.55.19:608][818]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/SM_Bridge.SM_Bridge]
+[2021.03.24-15.55.19:608][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/SM_Bridge]
+[2021.03.24-15.55.19:637][818]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_Bridge_Auto3AA392CA74D4B17A7A81C9F99A24F4C3E.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/Autosaves/Game/Geometry/Meshes/SM_Bridge_Auto3.uasset'
+[2021.03.24-15.55.19:641][818]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/SM_CliffRocks1] ([1] browsable assets)...
+[2021.03.24-15.55.19:656][818]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/SM_CliffRocks1.SM_CliffRocks1]
+[2021.03.24-15.55.19:656][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/SM_CliffRocks1]
+[2021.03.24-15.55.19:669][818]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_CliffRocks1_Auto36421CECF4E063955DA165292AEE16099.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/Autosaves/Game/Geometry/Meshes/SM_CliffRocks1_Auto3.uasset'
+[2021.03.24-15.55.19:673][818]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/SM_CliffRocks2] ([1] browsable assets)...
+[2021.03.24-15.55.19:686][818]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/SM_CliffRocks2.SM_CliffRocks2]
+[2021.03.24-15.55.19:687][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/SM_CliffRocks2]
+[2021.03.24-15.55.19:697][818]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_CliffRocks2_Auto352D0EACB48A41797FED8A3BD83CAAC43.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/Autosaves/Game/Geometry/Meshes/SM_CliffRocks2_Auto3.uasset'
+[2021.03.24-15.55.19:700][818]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Meshes/SM_CliffRocks3] ([1] browsable assets)...
+[2021.03.24-15.55.19:713][818]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Geometry/Meshes/SM_CliffRocks3.SM_CliffRocks3]
+[2021.03.24-15.55.19:713][818]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Meshes/SM_CliffRocks3]
+[2021.03.24-15.55.19:723][818]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_CliffRocks3_Auto3FDCC983145865F2250B51B93A032E3C3.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/Autosaves/Game/Geometry/Meshes/SM_CliffRocks3_Auto3.uasset'
+[2021.03.24-15.55.19:726][818]LogFileHelpers: Auto-saving content packages took 0.237
+[2021.03.24-15.57.27:341][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Yohan\SM_House_01.fbx)
+[2021.03.24-15.57.27:353][563]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Yohan\SM_House_01.fbx
+[2021.03.24-15.57.27:358][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.57.28:621][563]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.24-15.57.28:642][563]LogFbx: Display: Triangulating static mesh SM_House_01
+[2021.03.24-15.57.28:726][563]LogStaticMesh: Building static mesh SM_House_01...
+[2021.03.24-15.57.28:734][563]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_House_01.SM_House_01
+[2021.03.24-15.57.28:735][563]LogStaticMesh: Warning: SM_House_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.24-15.57.28:736][563]LogStaticMesh: Warning: SM_House_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.24-15.57.28:742][563]FBXImport: Warning: SM_House_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.24-15.57.28:742][563]FBXImport: Warning: SM_House_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.24-15.57.28:826][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Yohan\SM_House_02.fbx)
+[2021.03.24-15.57.28:871][563]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Yohan\SM_House_02.fbx
+[2021.03.24-15.57.28:877][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.57.28:877][563]LogFbx: Display: Triangulating static mesh SM_House_02
+[2021.03.24-15.57.28:890][563]LogStaticMesh: Building static mesh SM_House_02...
+[2021.03.24-15.57.28:898][563]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_House_02.SM_House_02
+[2021.03.24-15.57.28:899][563]LogStaticMesh: Warning: SM_House_02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.24-15.57.28:899][563]LogStaticMesh: Warning: SM_House_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.24-15.57.28:905][563]FBXImport: Warning: SM_House_02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.24-15.57.28:905][563]FBXImport: Warning: SM_House_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.24-15.57.28:908][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Yohan\SM_House_03.fbx)
+[2021.03.24-15.57.28:918][563]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Yohan\SM_House_03.fbx
+[2021.03.24-15.57.28:924][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.57.28:924][563]LogFbx: Display: Triangulating static mesh SM_House_03
+[2021.03.24-15.57.28:938][563]LogStaticMesh: Building static mesh SM_House_03...
+[2021.03.24-15.57.28:945][563]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_House_03.SM_House_03
+[2021.03.24-15.57.28:946][563]LogStaticMesh: Warning: SM_House_03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.24-15.57.28:946][563]LogStaticMesh: Warning: SM_House_03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.24-15.57.28:951][563]FBXImport: Warning: SM_House_03 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.24-15.57.28:951][563]FBXImport: Warning: SM_House_03 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.24-15.57.28:954][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Yohan\SM_House_04.fbx)
+[2021.03.24-15.57.28:964][563]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Yohan\SM_House_04.fbx
+[2021.03.24-15.57.28:971][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.57.28:975][563]LogStaticMesh: Building static mesh SM_House_04...
+[2021.03.24-15.57.28:988][563]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_House_04.SM_House_04
+[2021.03.24-15.57.28:990][563]LogStaticMesh: Warning: SM_House_04 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.24-15.57.28:990][563]LogStaticMesh: Warning: SM_House_04 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.24-15.57.28:997][563]FBXImport: Warning: SM_House_04 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.24-15.57.28:997][563]FBXImport: Warning: SM_House_04 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.24-15.57.29:001][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Yohan\SM_House_05.fbx)
+[2021.03.24-15.57.29:011][563]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Yohan\SM_House_05.fbx
+[2021.03.24-15.57.29:018][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.57.29:022][563]LogStaticMesh: Building static mesh SM_House_05...
+[2021.03.24-15.57.29:035][563]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_House_05.SM_House_05
+[2021.03.24-15.57.29:038][563]LogStaticMesh: Warning: SM_House_05 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.24-15.57.29:038][563]LogStaticMesh: Warning: SM_House_05 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.24-15.57.29:044][563]FBXImport: Warning: SM_House_05 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.24-15.57.29:044][563]FBXImport: Warning: SM_House_05 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.24-15.57.29:049][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Yohan\SM_House_06.fbx)
+[2021.03.24-15.57.29:059][563]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Yohan\SM_House_06.fbx
+[2021.03.24-15.57.29:065][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.57.29:066][563]LogFbx: Display: Triangulating static mesh SM_House_06
+[2021.03.24-15.57.29:080][563]LogStaticMesh: Building static mesh SM_House_06...
+[2021.03.24-15.57.29:089][563]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_House_06.SM_House_06
+[2021.03.24-15.57.29:090][563]LogStaticMesh: Warning: SM_House_06 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.24-15.57.29:090][563]LogStaticMesh: Warning: SM_House_06 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.24-15.57.29:096][563]FBXImport: Warning: SM_House_06 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.24-15.57.29:096][563]FBXImport: Warning: SM_House_06 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.24-15.57.29:099][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Yohan\SM_Shield_01.fbx)
+[2021.03.24-15.57.29:108][563]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Yohan\SM_Shield_01.fbx
+[2021.03.24-15.57.29:114][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.57.29:115][563]LogFbx: Display: Triangulating static mesh SM_Shield_01
+[2021.03.24-15.57.29:125][563]LogStaticMesh: Building static mesh SM_Shield_01...
+[2021.03.24-15.57.29:129][563]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/SM_Shield_01.SM_Shield_01
+[2021.03.24-15.57.29:137][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Yohan\SM_Spears_01.fbx)
+[2021.03.24-15.57.29:147][563]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Yohan\SM_Spears_01.fbx
+[2021.03.24-15.57.29:153][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.57.29:154][563]LogStaticMesh: Building static mesh SM_Spears_01...
+[2021.03.24-15.57.29:156][563]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/SM_Spears_01.SM_Spears_01
+[2021.03.24-15.57.29:163][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Yohan\SM_Glaive_01.fbx)
+[2021.03.24-15.57.29:172][563]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Yohan\SM_Glaive_01.fbx
+[2021.03.24-15.57.29:179][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.57.29:183][563]LogStaticMesh: Building static mesh SM_Glaive_01...
+[2021.03.24-15.57.29:189][563]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_Glaive_01.SM_Glaive_01
+[2021.03.24-15.57.29:200][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Yohan\SM_Helmet_01.fbx)
+[2021.03.24-15.57.29:209][563]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Yohan\SM_Helmet_01.fbx
+[2021.03.24-15.57.29:216][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.57.29:216][563]LogFbx: Display: Triangulating static mesh SM_Helmet_01
+[2021.03.24-15.57.29:239][563]LogStaticMesh: Building static mesh SM_Helmet_01...
+[2021.03.24-15.57.29:244][563]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_Helmet_01.SM_Helmet_01
+[2021.03.24-15.57.29:246][563]LogStaticMesh: Warning: SM_Helmet_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.24-15.57.29:246][563]LogStaticMesh: Warning: SM_Helmet_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.24-15.57.29:252][563]FBXImport: Warning: SM_Helmet_01 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.24-15.57.29:252][563]FBXImport: Warning: SM_Helmet_01 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.24-15.57.29:256][563]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\machi\AppData\Local\Temp\Yohan\SM_Helmet_02.fbx)
+[2021.03.24-15.57.29:265][563]LogFbx: Loading FBX Scene from C:\Users\machi\AppData\Local\Temp\Yohan\SM_Helmet_02.fbx
+[2021.03.24-15.57.29:271][563]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.57.29:272][563]LogFbx: Display: Triangulating static mesh SM_Helmet_02
+[2021.03.24-15.57.29:299][563]LogStaticMesh: Building static mesh SM_Helmet_02...
+[2021.03.24-15.57.29:311][563]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_Helmet_02.SM_Helmet_02
+[2021.03.24-15.57.29:313][563]LogStaticMesh: Warning: SM_Helmet_02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.24-15.57.29:313][563]LogStaticMesh: Warning: SM_Helmet_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.24-15.57.29:319][563]FBXImport: Warning: SM_Helmet_02 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.24-15.57.29:319][563]FBXImport: Warning: SM_Helmet_02 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.24-15.57.31:017][654]LogSlate: Window 'Message Log' being destroyed
+[2021.03.24-15.57.31:024][654]LogSlate: Window 'Message Log' being destroyed
+[2021.03.24-15.57.44:038][426]LogActorFactory: Actor Factory created SM_Glaive_01
+[2021.03.24-15.57.44:605][458]LogActorFactory: Actor Factory created SM_Glaive_01
+[2021.03.24-15.57.47:419][623]LogActorFactory: Actor Factory created SM_Helmet_01
+[2021.03.24-15.57.48:123][663]LogActorFactory: Actor Factory created SM_Helmet_01
+[2021.03.24-15.58.00:833][419]LogActorFactory: Actor Factory created SM_Helmet_02
+[2021.03.24-15.58.01:537][458]LogActorFactory: Actor Factory created SM_Helmet_02
+[2021.03.24-15.58.10:597][993]LogActorFactory: Actor Factory created SM_House_01
+[2021.03.24-15.58.11:425][ 41]LogActorFactory: Actor Factory created SM_House_01
+[2021.03.24-15.58.12:928][121]LogActorFactory: Actor Factory created SM_House_02
+[2021.03.24-15.58.13:728][166]LogActorFactory: Actor Factory created SM_House_02
+[2021.03.24-15.58.14:343][198]LogActorFactory: Actor Factory created SM_House_03
+[2021.03.24-15.58.15:729][279]LogActorFactory: Actor Factory created SM_House_03
+[2021.03.24-15.58.16:276][305]LogActorFactory: Actor Factory created SM_House_04
+[2021.03.24-15.58.18:654][446]LogActorFactory: Actor Factory created SM_House_04
+[2021.03.24-15.58.20:156][527]LogActorFactory: Actor Factory created SM_House_05
+[2021.03.24-15.58.20:905][571]LogActorFactory: Actor Factory created SM_House_05
+[2021.03.24-15.58.21:303][594]LogActorFactory: Actor Factory created SM_House_05
+[2021.03.24-15.58.24:889][797]LogActorFactory: Actor Factory created SM_House_06
+[2021.03.24-15.58.26:451][885]LogActorFactory: Actor Factory created SM_House_06
+[2021.03.24-15.58.27:373][930]LogActorFactory: Actor Factory created SM_IslandPoor
+[2021.03.24-15.58.28:822][ 15]LogActorFactory: Actor Factory created SM_IslandPoor
+[2021.03.24-15.58.29:252][ 39]Cmd: TRANSACTION UNDO
+[2021.03.24-15.58.29:252][ 39]LogEditorTransaction: Undo Create Actors
+[2021.03.24-15.58.31:387][136]LogActorFactory: Actor Factory created SM_Shield_01
+[2021.03.24-15.58.32:214][182]LogActorFactory: Actor Factory created SM_Shield_01
+[2021.03.24-15.58.36:844][457]Cmd: TRANSACTION UNDO
+[2021.03.24-15.58.36:844][457]LogEditorTransaction: Undo Move Actors
+[2021.03.24-15.58.48:964][160]LogActorFactory: Actor Factory created SM_Spears_01
+[2021.03.24-15.58.50:300][236]LogActorFactory: Actor Factory created SM_Spears_01
+[2021.03.24-15.58.51:446][296]LogActorFactory: Actor Factory created SM_Table
+[2021.03.24-15.58.52:629][365]LogActorFactory: Actor Factory created SM_Table
+[2021.03.24-15.58.52:978][384]Cmd: TRANSACTION UNDO
+[2021.03.24-15.58.52:978][384]LogEditorTransaction: Undo Create Actors
+[2021.03.24-15.59.14:118][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GrandIle" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.24-15.59.14:125][619]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2021.03.24-15.59.14:140][619]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/GrandIle2BE4DC0144CD3E3DEF191FBF6857D6EC.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle.umap'
+[2021.03.24-15.59.14:152][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GrandIle_BuiltData" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle_BuiltData.uasset" SILENT=true
+[2021.03.24-15.59.14:179][619]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/GrandIle_BuiltData682CE4EB4C53AD050600828A2DDB7E3B.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle_BuiltData.uasset'
+[2021.03.24-15.59.14:206][619]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.24-15.59.14:206][619]LogContentValidation: Display: Validating World /Game/Maps/GrandIle.GrandIle
+[2021.03.24-15.59.14:206][619]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/GrandIle_BuiltData.GrandIle_BuiltData
+[2021.03.24-15.59.16:962][765]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.24-15.59.16:983][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_IslandPoor" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_IslandPoor.uasset" SILENT=true
+[2021.03.24-15.59.16:988][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_IslandPoor94227E35467F7533BA1B5EB83A45C7C2.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_IslandPoor.uasset'
+[2021.03.24-15.59.16:992][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_IslandRich" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_IslandRich.uasset" SILENT=true
+[2021.03.24-15.59.16:996][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_IslandRichF990F97F4FA49923012EE5A977BEB3AA.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_IslandRich.uasset'
+[2021.03.24-15.59.16:999][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Bridge" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Bridge.uasset" SILENT=true
+[2021.03.24-15.59.17:036][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_BridgeC80C26BA4EAAAA596635A98CDA9878FF.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Bridge.uasset'
+[2021.03.24-15.59.17:039][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_CliffRocks1" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CliffRocks1.uasset" SILENT=true
+[2021.03.24-15.59.17:045][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_CliffRocks18EB2372E4ACA2B0E654AE09DFA6A8A0D.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CliffRocks1.uasset'
+[2021.03.24-15.59.17:049][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_CliffRocks2" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CliffRocks2.uasset" SILENT=true
+[2021.03.24-15.59.17:055][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_CliffRocks2BC3C6D2141F6A664FE8E83AC450D5B57.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CliffRocks2.uasset'
+[2021.03.24-15.59.17:059][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_CliffRocks3" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CliffRocks3.uasset" SILENT=true
+[2021.03.24-15.59.17:066][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_CliffRocks3D8A996094A97BEDDD44066A240C2803C.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CliffRocks3.uasset'
+[2021.03.24-15.59.17:091][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_House_01" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_House_01.uasset" SILENT=true
+[2021.03.24-15.59.17:105][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_House_0177D84F2E474DE7A1AF612C84738C0628.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_House_01.uasset'
+[2021.03.24-15.59.17:125][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_House_02" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_House_02.uasset" SILENT=true
+[2021.03.24-15.59.17:139][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_House_02D6DD3C3D4EE657171823EA8D38CD2C64.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_House_02.uasset'
+[2021.03.24-15.59.17:155][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_House_03" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_House_03.uasset" SILENT=true
+[2021.03.24-15.59.17:167][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_House_039F94038A4D1CE5C54F9BB79CE581AA56.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_House_03.uasset'
+[2021.03.24-15.59.17:182][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_House_04" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_House_04.uasset" SILENT=true
+[2021.03.24-15.59.17:198][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_House_0404C541194632302861BD2C96A018AC59.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_House_04.uasset'
+[2021.03.24-15.59.17:213][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_House_05" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_House_05.uasset" SILENT=true
+[2021.03.24-15.59.17:227][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_House_05881C54E743A0C26426CB06A2A81276D7.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_House_05.uasset'
+[2021.03.24-15.59.17:241][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_House_06" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_House_06.uasset" SILENT=true
+[2021.03.24-15.59.17:257][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_House_06600C276343318C3B6652F8A8829CF29D.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_House_06.uasset'
+[2021.03.24-15.59.17:271][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Shield_01" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Shield_01.uasset" SILENT=true
+[2021.03.24-15.59.17:282][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_Shield_01568D5724406F7D6B5883D3843721B54D.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Shield_01.uasset'
+[2021.03.24-15.59.17:296][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Spears_01" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Spears_01.uasset" SILENT=true
+[2021.03.24-15.59.17:306][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_Spears_01E84287AE4A5A52D40F2729AF7862C228.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Spears_01.uasset'
+[2021.03.24-15.59.17:321][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Glaive_01" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Glaive_01.uasset" SILENT=true
+[2021.03.24-15.59.17:333][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_Glaive_0114D437CC4CFEB4F178B72C9AC5067BFE.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Glaive_01.uasset'
+[2021.03.24-15.59.17:348][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Helmet_01" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Helmet_01.uasset" SILENT=true
+[2021.03.24-15.59.17:362][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_Helmet_01FD2C964942A4669C6476C3861FC71F57.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Helmet_01.uasset'
+[2021.03.24-15.59.17:378][765]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Helmet_02" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Helmet_02.uasset" SILENT=true
+[2021.03.24-15.59.17:392][765]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_Helmet_02A6E4786443C068C9A53DF7999396F91D.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Helmet_02.uasset'
+[2021.03.24-15.59.17:409][765]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.24-15.59.17:409][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Helmet_02.SM_Helmet_02
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Helmet_01.SM_Helmet_01
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Glaive_01.SM_Glaive_01
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Spears_01.SM_Spears_01
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Shield_01.SM_Shield_01
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_House_06.SM_House_06
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_CliffRocks3.SM_CliffRocks3
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_House_05.SM_House_05
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_CliffRocks2.SM_CliffRocks2
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_CliffRocks1.SM_CliffRocks1
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_House_04.SM_House_04
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_House_03.SM_House_03
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Bridge.SM_Bridge
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_IslandRich.SM_IslandRich
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_IslandPoor.SM_IslandPoor
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_House_02.SM_House_02
+[2021.03.24-15.59.17:410][765]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_House_01.SM_House_01
+[2021.03.24-16.00.37:856][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GrandIle" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.24-16.00.37:862][567]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2021.03.24-16.00.37:878][567]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/GrandIle1DA9A13A421243DBF7E156ACCAF11933.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle.umap'
+[2021.03.24-16.00.37:890][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GrandIle_BuiltData" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle_BuiltData.uasset" SILENT=true
+[2021.03.24-16.00.37:920][567]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/GrandIle_BuiltData9E7CA6ED41E743AD616CC58B29C1B609.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle_BuiltData.uasset'
+[2021.03.24-16.00.37:945][567]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.24-16.00.37:945][567]LogContentValidation: Display: Validating World /Game/Maps/GrandIle.GrandIle
+[2021.03.24-16.00.37:945][567]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/GrandIle_BuiltData.GrandIle_BuiltData
+[2021.03.24-16.01.33:442][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
