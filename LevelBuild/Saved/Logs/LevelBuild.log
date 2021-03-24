@@ -1882,3 +1882,169 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.03.24-15.36.42:449][528]AssetCheck: New page: Asset Save: multiple assets
 [2021.03.24-15.36.42:449][528]LogContentValidation: Display: Validating World /Game/Maps/GrandIle.GrandIle
 [2021.03.24-15.36.42:450][528]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/GrandIle_BuiltData.GrandIle_BuiltData
+[2021.03.24-15.39.42:213][659]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Rubika\B4\Level Build\Assets\Chloe\SM_CColonneBroken1.fbx)
+[2021.03.24-15.39.42:225][659]LogFbx: Loading FBX Scene from D:\Rubika\B4\Level Build\Assets\Chloe\SM_CColonneBroken1.fbx
+[2021.03.24-15.39.42:231][659]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.39.43:899][659]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.03.24-15.39.43:980][659]LogStaticMesh: Building static mesh SM_CColonneBroken1...
+[2021.03.24-15.39.43:989][659]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_CColonneBroken1.SM_CColonneBroken1
+[2021.03.24-15.39.43:998][659]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.24-15.39.44:080][659]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Rubika\B4\Level Build\Assets\Chloe\SM_CColonneBroken2.fbx)
+[2021.03.24-15.39.44:107][659]LogFbx: Loading FBX Scene from D:\Rubika\B4\Level Build\Assets\Chloe\SM_CColonneBroken2.fbx
+[2021.03.24-15.39.44:113][659]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.39.44:118][659]LogStaticMesh: Building static mesh SM_CColonneBroken2...
+[2021.03.24-15.39.44:127][659]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_CColonneBroken2.SM_CColonneBroken2
+[2021.03.24-15.39.44:135][659]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.24-15.39.44:139][659]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Rubika\B4\Level Build\Assets\Chloe\SM_Brasero.fbx)
+[2021.03.24-15.39.44:150][659]LogFbx: Loading FBX Scene from D:\Rubika\B4\Level Build\Assets\Chloe\SM_Brasero.fbx
+[2021.03.24-15.39.44:156][659]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.39.44:159][659]LogStaticMesh: Building static mesh SM_Brasero...
+[2021.03.24-15.39.44:165][659]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_Brasero.SM_Brasero
+[2021.03.24-15.39.44:167][659]LogStaticMesh: Warning: SM_Brasero has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2021.03.24-15.39.44:167][659]LogStaticMesh: Warning: SM_Brasero has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.03.24-15.39.44:173][659]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.24-15.39.44:173][659]FBXImport: Warning: SM_Brasero has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2021.03.24-15.39.44:173][659]FBXImport: Warning: SM_Brasero has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.03.24-15.39.44:178][659]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Rubika\B4\Level Build\Assets\Chloe\SM_CColonne01.fbx)
+[2021.03.24-15.39.44:188][659]LogFbx: Loading FBX Scene from D:\Rubika\B4\Level Build\Assets\Chloe\SM_CColonne01.fbx
+[2021.03.24-15.39.44:194][659]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.39.44:197][659]LogStaticMesh: Building static mesh SM_CColonne01...
+[2021.03.24-15.39.44:202][659]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_CColonne01.SM_CColonne01
+[2021.03.24-15.39.44:209][659]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.24-15.39.44:212][659]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Rubika\B4\Level Build\Assets\Chloe\SM_CColonne02.fbx)
+[2021.03.24-15.39.44:224][659]LogFbx: Loading FBX Scene from D:\Rubika\B4\Level Build\Assets\Chloe\SM_CColonne02.fbx
+[2021.03.24-15.39.44:230][659]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.39.44:234][659]LogStaticMesh: Building static mesh SM_CColonne02...
+[2021.03.24-15.39.44:241][659]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/SM_CColonne02.SM_CColonne02
+[2021.03.24-15.39.44:251][659]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.24-15.39.44:256][659]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\Rubika\B4\Level Build\Assets\Chloe\SM_CColonne03.fbx)
+[2021.03.24-15.39.44:267][659]LogFbx: Loading FBX Scene from D:\Rubika\B4\Level Build\Assets\Chloe\SM_CColonne03.fbx
+[2021.03.24-15.39.44:273][659]LogFbx: FBX Scene Loaded Succesfully
+[2021.03.24-15.39.44:275][659]LogStaticMesh: Building static mesh SM_CColonne03...
+[2021.03.24-15.39.44:280][659]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/SM_CColonne03.SM_CColonne03
+[2021.03.24-15.39.44:287][659]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.03.24-15.39.45:865][748]LogSlate: Window 'Message Log' being destroyed
+[2021.03.24-15.39.45:873][748]LogSlate: Window 'Message Log' being destroyed
+[2021.03.24-15.40.02:155][717]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Islands01)
+[2021.03.24-15.40.04:572][853]LogActorFactory: Actor Factory created SM_Brasero
+[2021.03.24-15.40.04:572][853]LogActorFactory: Actor Factory created SM_CColonne01
+[2021.03.24-15.40.04:573][853]LogActorFactory: Actor Factory created SM_CColonne02
+[2021.03.24-15.40.04:573][853]LogActorFactory: Actor Factory created SM_CColonne03
+[2021.03.24-15.40.04:574][853]LogActorFactory: Actor Factory created SM_CColonneBroken1
+[2021.03.24-15.40.04:574][853]LogActorFactory: Actor Factory created SM_CColonneBroken2
+[2021.03.24-15.40.05:443][900]LogActorFactory: Actor Factory created SM_Brasero
+[2021.03.24-15.40.05:460][900]LogActorFactory: Actor Factory created SM_CColonne01
+[2021.03.24-15.40.05:477][900]LogActorFactory: Actor Factory created SM_CColonne02
+[2021.03.24-15.40.05:496][900]LogActorFactory: Actor Factory created SM_CColonne03
+[2021.03.24-15.40.05:515][900]LogActorFactory: Actor Factory created SM_CColonneBroken1
+[2021.03.24-15.40.05:532][900]LogActorFactory: Actor Factory created SM_CColonneBroken2
+[2021.03.24-15.40.06:136][927]LogActorFactory: Actor Factory created SM_Brasero
+[2021.03.24-15.40.06:137][927]LogActorFactory: Actor Factory created SM_CColonne01
+[2021.03.24-15.40.06:137][927]LogActorFactory: Actor Factory created SM_CColonne02
+[2021.03.24-15.40.06:137][927]LogActorFactory: Actor Factory created SM_CColonne03
+[2021.03.24-15.40.06:138][927]LogActorFactory: Actor Factory created SM_CColonneBroken1
+[2021.03.24-15.40.06:138][927]LogActorFactory: Actor Factory created SM_CColonneBroken2
+[2021.03.24-15.40.06:799][964]LogActorFactory: Actor Factory created SM_Brasero
+[2021.03.24-15.40.06:814][964]LogActorFactory: Actor Factory created SM_CColonne01
+[2021.03.24-15.40.06:828][964]LogActorFactory: Actor Factory created SM_CColonne02
+[2021.03.24-15.40.06:845][964]LogActorFactory: Actor Factory created SM_CColonne03
+[2021.03.24-15.40.06:863][964]LogActorFactory: Actor Factory created SM_CColonneBroken1
+[2021.03.24-15.40.06:881][964]LogActorFactory: Actor Factory created SM_CColonneBroken2
+[2021.03.24-15.40.08:368][ 46]Cmd: TRANSACTION UNDO
+[2021.03.24-15.40.08:368][ 46]LogEditorTransaction: Undo Create Actors
+[2021.03.24-15.40.08:817][ 58]Cmd: TRANSACTION UNDO
+[2021.03.24-15.40.08:818][ 58]LogEditorTransaction: Undo Create Actors
+[2021.03.24-15.40.10:236][134]LogActorFactory: Actor Factory created SM_CColonneBroken2
+[2021.03.24-15.40.10:767][165]LogActorFactory: Actor Factory created SM_CColonneBroken2
+[2021.03.24-15.40.11:412][201]LogActorFactory: Actor Factory created SM_CColonneBroken2
+[2021.03.24-15.40.12:091][241]LogActorFactory: Actor Factory created SM_CColonneBroken2
+[2021.03.24-15.40.13:914][349]Cmd: TRANSACTION UNDO
+[2021.03.24-15.40.13:914][349]LogEditorTransaction: Undo Rotate Actors
+[2021.03.24-15.40.14:497][368]Cmd: TRANSACTION UNDO
+[2021.03.24-15.40.14:497][368]LogEditorTransaction: Undo Create Actors
+[2021.03.24-15.40.15:130][402]Cmd: TRANSACTION UNDO
+[2021.03.24-15.40.15:130][402]LogEditorTransaction: Undo Create Actors
+[2021.03.24-15.40.16:434][475]LogActorFactory: Actor Factory created SM_Brasero
+[2021.03.24-15.40.17:087][512]LogActorFactory: Actor Factory created SM_Brasero
+[2021.03.24-15.40.19:068][627]LogActorFactory: Actor Factory created SM_CColonne01
+[2021.03.24-15.40.19:710][665]LogActorFactory: Actor Factory created SM_CColonne01
+[2021.03.24-15.40.20:330][700]LogActorFactory: Actor Factory created SM_CColonne02
+[2021.03.24-15.40.21:091][745]LogActorFactory: Actor Factory created SM_CColonne02
+[2021.03.24-15.40.21:882][790]LogActorFactory: Actor Factory created SM_CColonne03
+[2021.03.24-15.40.22:474][825]LogActorFactory: Actor Factory created SM_CColonne03
+[2021.03.24-15.40.23:596][889]LogActorFactory: Actor Factory created SM_CColonneBroken1
+[2021.03.24-15.40.24:246][927]LogActorFactory: Actor Factory created SM_CColonneBroken1
+[2021.03.24-15.40.25:542][  2]LogActorFactory: Actor Factory created SM_CColonneBroken2
+[2021.03.24-15.40.26:162][ 38]LogActorFactory: Actor Factory created SM_CColonneBroken2
+[2021.03.24-15.40.27:184][ 98]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_CColonneBroken1)
+[2021.03.24-15.40.27:758][131]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_CColonne03)
+[2021.03.24-15.40.28:199][156]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_CColonne02)
+[2021.03.24-15.40.28:758][188]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (SM_CColonne01)
+[2021.03.24-15.40.42:835][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Brasero)
+[2021.03.24-15.40.44:958][156]Cmd: TRANSACTION UNDO
+[2021.03.24-15.40.44:958][156]LogEditorTransaction: Undo Move Actors
+[2021.03.24-15.41.02:699][189]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CColonneBroken2)
+[2021.03.24-15.43.31:773][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.03.24-15.43.31:797][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GrandIle" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.03.24-15.43.31:802][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.24-15.43.31:810][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/GrandIleC764FAE5477D4F7D20EAC2AB7E09B7A8.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle.umap'
+[2021.03.24-15.43.31:820][589]LogFileHelpers: Saving map 'GrandIle' took 0.023
+[2021.03.24-15.43.31:834][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Table" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Table.uasset" SILENT=true
+[2021.03.24-15.43.31:842][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_Table55E7A918471737B30017BE85F4EA3234.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Table.uasset'
+[2021.03.24-15.43.31:855][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Etabli" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Etabli.uasset" SILENT=true
+[2021.03.24-15.43.31:929][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_EtabliB587236E4F6D015C8C66499F038237DA.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Etabli.uasset'
+[2021.03.24-15.43.31:943][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Fontaine" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Fontaine.uasset" SILENT=true
+[2021.03.24-15.43.31:955][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_Fontaine85DA3594420F7B08F4D417B7EDD5971B.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Fontaine.uasset'
+[2021.03.24-15.43.31:968][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Lit" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Lit.uasset" SILENT=true
+[2021.03.24-15.43.31:983][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_LitDCC01599418A0342D6C1129B2214A479.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Lit.uasset'
+[2021.03.24-15.43.32:016][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Panier" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Panier.uasset" SILENT=true
+[2021.03.24-15.43.32:033][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_Panier81DBB9324E8A4BAF34E82D927038CD18.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Panier.uasset'
+[2021.03.24-15.43.32:046][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Puits" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Puits.uasset" SILENT=true
+[2021.03.24-15.43.32:056][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_Puits97ED0801454882AE245F40B9E92E56B1.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Puits.uasset'
+[2021.03.24-15.43.32:068][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_TriplanarRed" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarRed.uasset" SILENT=true
+[2021.03.24-15.43.32:075][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/MI_TriplanarRed76AED1AB4606AAD2C373FC83CF052696.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarRed.uasset'
+[2021.03.24-15.43.32:088][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_TriplanarGreen" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarGreen.uasset" SILENT=true
+[2021.03.24-15.43.32:095][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/MI_TriplanarGreenB1D8EF3A4D72114ADE1AA29C14DA2C3D.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarGreen.uasset'
+[2021.03.24-15.43.32:107][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_TriplanarBlue" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarBlue.uasset" SILENT=true
+[2021.03.24-15.43.32:114][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/MI_TriplanarBlueD2671D4A4855D28012D47E98DE179C38.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarBlue.uasset'
+[2021.03.24-15.43.32:127][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_TriplanarBlack" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarBlack.uasset" SILENT=true
+[2021.03.24-15.43.32:163][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/MI_TriplanarBlack30261B7D47A2E3641E248180CF11F9A5.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarBlack.uasset'
+[2021.03.24-15.43.32:176][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_TriplanarWhite" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarWhite.uasset" SILENT=true
+[2021.03.24-15.43.32:182][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/MI_TriplanarWhite9EAD195C47F853767AAE77BA12EE53BE.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarWhite.uasset'
+[2021.03.24-15.43.32:194][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_TriplanarGray" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarGray.uasset" SILENT=true
+[2021.03.24-15.43.32:200][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/MI_TriplanarGray8BDBC4FB41C7B8BBC2EB0F81F17CB048.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarGray.uasset'
+[2021.03.24-15.43.32:213][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/MI_TriplanarPurple" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarPurple.uasset" SILENT=true
+[2021.03.24-15.43.32:220][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/MI_TriplanarPurpleC2CC19B3423F9F543FC85885B2298EC1.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Materials/MI_TriplanarPurple.uasset'
+[2021.03.24-15.43.32:233][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_CColonneBroken1" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CColonneBroken1.uasset" SILENT=true
+[2021.03.24-15.43.32:243][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_CColonneBroken1127444A2490DD514C9E0AEB8A9484660.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CColonneBroken1.uasset'
+[2021.03.24-15.43.32:256][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_CColonneBroken2" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CColonneBroken2.uasset" SILENT=true
+[2021.03.24-15.43.32:265][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_CColonneBroken29B85CCA246DC0F056C349CB8D641FF88.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CColonneBroken2.uasset'
+[2021.03.24-15.43.32:277][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_Brasero" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Brasero.uasset" SILENT=true
+[2021.03.24-15.43.32:286][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_Brasero938D7DB846FBDE6052459F8B38F347A6.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_Brasero.uasset'
+[2021.03.24-15.43.32:300][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_CColonne01" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CColonne01.uasset" SILENT=true
+[2021.03.24-15.43.32:309][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_CColonne01923E50AC4C8DA0041C6EF699DF5AD06A.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CColonne01.uasset'
+[2021.03.24-15.43.32:322][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_CColonne02" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CColonne02.uasset" SILENT=true
+[2021.03.24-15.43.32:330][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_CColonne023779DBBB45D5DA7B37C0DC8B68D23E2A.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CColonne02.uasset'
+[2021.03.24-15.43.32:343][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/SM_CColonne03" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CColonne03.uasset" SILENT=true
+[2021.03.24-15.43.32:352][589]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/SM_CColonne03111CC1434CDB7B6F45A27696E557B2BA.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Geometry/Meshes/SM_CColonne03.uasset'
+[2021.03.24-15.43.32:368][589]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.24-15.43.32:368][589]LogContentValidation: Display: Validating World /Game/Maps/GrandIle.GrandIle
+[2021.03.24-15.43.32:368][589]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_CColonne03.SM_CColonne03
+[2021.03.24-15.43.32:368][589]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_CColonne02.SM_CColonne02
+[2021.03.24-15.43.32:368][589]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_CColonne01.SM_CColonne01
+[2021.03.24-15.43.32:368][589]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Brasero.SM_Brasero
+[2021.03.24-15.43.32:368][589]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_CColonneBroken2.SM_CColonneBroken2
+[2021.03.24-15.43.32:368][589]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_TriplanarBlack.MI_TriplanarBlack
+[2021.03.24-15.43.32:368][589]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_TriplanarBlue.MI_TriplanarBlue
+[2021.03.24-15.43.32:368][589]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_TriplanarGreen.MI_TriplanarGreen
+[2021.03.24-15.43.32:368][589]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_TriplanarRed.MI_TriplanarRed
+[2021.03.24-15.43.32:368][589]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_CColonneBroken1.SM_CColonneBroken1
+[2021.03.24-15.43.32:368][589]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Puits.SM_Puits
+[2021.03.24-15.43.32:369][589]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Panier.SM_Panier
+[2021.03.24-15.43.32:369][589]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Lit.SM_Lit
+[2021.03.24-15.43.32:369][589]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Fontaine.SM_Fontaine
+[2021.03.24-15.43.32:369][589]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Etabli.SM_Etabli
+[2021.03.24-15.43.32:369][589]LogContentValidation: Display: Validating StaticMesh /Game/Geometry/Meshes/SM_Table.SM_Table
+[2021.03.24-15.43.32:369][589]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_TriplanarPurple.MI_TriplanarPurple
+[2021.03.24-15.43.32:369][589]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_TriplanarGray.MI_TriplanarGray
+[2021.03.24-15.43.32:369][589]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Materials/MI_TriplanarWhite.MI_TriplanarWhite
