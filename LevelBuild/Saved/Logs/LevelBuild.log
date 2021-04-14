@@ -1306,3 +1306,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.14-21.12.22:711][855]AssetCheck: New page: Asset Save: multiple assets
 [2021.04.14-21.12.22:711][855]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/LevelBuild_BuiltData.LevelBuild_BuiltData
 [2021.04.14-21.12.22:711][855]LogContentValidation: Display: Validating World /Game/Maps/LevelBuild.LevelBuild
+[2021.04.14-21.16.06:149][625]LogFileManager: Warning: DeleteFile was unable to delete '../../../../../../Users/m.mouttet/Documents/Unreal Projects/Sylvain_Project/LevelBuild/Intermediate/CachedAssetRegistry.bin', retrying in .5s...
+[2021.04.14-21.16.06:502][626]LogFileManager: Warning: DeleteFile recovered during retry!
