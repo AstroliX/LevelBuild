@@ -961,3 +961,266 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.04.15-09.52.19:835][905]LogStaticMesh: Built static mesh [0.03s] /Game/Geometry/Meshes/SM_WallCorner_01.SM_WallCorner_01
 [2021.04.15-09.52.19:911][906]LogActorFactory: Actor Factory created SM_WallCorner_01
 [2021.04.15-09.52.20:213][923]LogActorFactory: Actor Factory created SM_WallCorner_01
+[2021.04.15-09.58.42:056][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GrandIle" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.15-09.58.42:062][769]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.04.15-09.58.42:082][769]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/GrandIleC2152B85437266CB4F8BC383ABF56B6F.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle.umap'
+[2021.04.15-09.58.42:093][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GrandIle_BuiltData" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle_BuiltData.uasset" SILENT=true
+[2021.04.15-09.58.42:170][769]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/GrandIle_BuiltData21EAA734438663F767EC0EB673EDD0E7.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle_BuiltData.uasset'
+[2021.04.15-09.58.42:194][769]AssetCheck: New page: Asset Save: multiple assets
+[2021.04.15-09.58.42:194][769]LogContentValidation: Display: Validating World /Game/Maps/GrandIle.GrandIle
+[2021.04.15-09.58.42:194][769]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/GrandIle_BuiltData.GrandIle_BuiltData
+[2021.04.15-09.58.42:990][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.04.15-09.58.44:368][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.15-09.58.44:386][899]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/GrandIle.GrandIle
+[2021.04.15-09.58.44:386][899]Cmd: MAP LOAD FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.15-09.58.44:386][899]LightingResults: New page: Lighting Build
+[2021.04.15-09.58.44:387][899]LoadErrors: New page: Loading map: GrandIle.umap
+[2021.04.15-09.58.44:388][899]LogWorld: UWorld::CleanupWorld for GrandIle, bSessionEnded=true, bCleanupResources=true
+[2021.04.15-09.58.44:388][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.15-09.58.44:388][899]MapCheck: New page: Map Check
+[2021.04.15-09.58.44:388][899]LightingResults: New page: Lighting Build
+[2021.04.15-09.58.44:394][899]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.15-09.58.44:396][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.15-09.58.44:404][899]LogAudio: Display: Audio Device (ID: 1) registered with world 'GrandIle'.
+[2021.04.15-09.58.44:406][899]LogAIModule: Creating AISystem for world GrandIle
+[2021.04.15-09.58.44:470][899]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.15-09.58.44:477][899]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.15-09.58.44:482][899]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.15-09.58.44:483][899]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
+[2021.04.15-09.58.44:483][899]LogFileHelpers: Loading map 'GrandIle' took 0.097
+[2021.04.15-09.58.53:454][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.15-09.58.53:482][398]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/GrandIle.GrandIle
+[2021.04.15-09.58.53:483][398]Cmd: MAP LOAD FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.15-09.58.53:483][398]LightingResults: New page: Lighting Build
+[2021.04.15-09.58.53:483][398]LoadErrors: New page: Loading map: GrandIle.umap
+[2021.04.15-09.58.53:512][398]LogWorld: UWorld::CleanupWorld for GrandIle, bSessionEnded=true, bCleanupResources=true
+[2021.04.15-09.58.53:512][398]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.15-09.58.53:512][398]MapCheck: New page: Map Check
+[2021.04.15-09.58.53:512][398]LightingResults: New page: Lighting Build
+[2021.04.15-09.58.53:517][398]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.15-09.58.53:518][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.15-09.58.53:529][398]LogAudio: Display: Audio Device (ID: 1) registered with world 'GrandIle'.
+[2021.04.15-09.58.53:531][398]LogAIModule: Creating AISystem for world GrandIle
+[2021.04.15-09.58.53:593][398]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.15-09.58.53:600][398]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.04.15-09.58.53:605][398]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.15-09.58.53:605][398]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.081ms to complete.
+[2021.04.15-09.58.53:605][398]LogFileHelpers: Loading map 'GrandIle' took 0.123
+[2021.04.15-09.58.54:755][460]LogContentBrowser: Deferred new asset file creation: GrandIle1
+[2021.04.15-09.58.54:763][460]LogContentBrowser: Creating deferred item: GrandIle1
+[2021.04.15-09.58.56:758][578]LogContentBrowser: Attempting asset rename: GrandIle1 -> GrandIle1
+[2021.04.15-09.58.56:856][578]LogContentBrowser: End creating deferred item GrandIle1
+[2021.04.15-09.58.57:731][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.04.15-09.58.58:696][629]LogSlate: Window 'Save Content' being destroyed
+[2021.04.15-09.58.58:732][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GrandIle1" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.15-09.58.58:740][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.15-09.58.58:760][629]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/GrandIle1F3CB461B42DBC4BB96E8F0A34B6CF750.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle1.umap'
+[2021.04.15-09.58.58:763][629]LogFileHelpers: Saving map 'GrandIle1' took 0.031
+[2021.04.15-09.58.58:799][629]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/GrandIle1.GrandIle1
+[2021.04.15-09.58.58:799][629]Cmd: MAP LOAD FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.15-09.58.58:799][629]LightingResults: New page: Lighting Build
+[2021.04.15-09.58.58:800][629]LoadErrors: New page: Loading map: GrandIle1.umap
+[2021.04.15-09.58.58:821][629]LogWorld: UWorld::CleanupWorld for GrandIle, bSessionEnded=true, bCleanupResources=true
+[2021.04.15-09.58.58:821][629]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.15-09.58.58:821][629]MapCheck: New page: Map Check
+[2021.04.15-09.58.58:822][629]LightingResults: New page: Lighting Build
+[2021.04.15-09.58.58:827][629]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.15-09.58.58:828][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.15-09.58.58:829][629]LogAudio: Display: Audio Device (ID: 1) registered with world 'GrandIle1'.
+[2021.04.15-09.58.58:888][629]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.15-09.58.58:888][629]LogAIModule: Creating AISystem for world GrandIle1
+[2021.04.15-09.58.58:895][629]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.04.15-09.58.58:900][629]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.15-09.58.58:900][629]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.085ms to complete.
+[2021.04.15-09.58.58:900][629]LogFileHelpers: Loading map 'GrandIle1' took 0.101
+[2021.04.15-09.58.58:916][629]AssetCheck: New page: Asset Save: GrandIle1
+[2021.04.15-09.58.58:916][629]LogContentValidation: Display: Validating World /Game/Maps/GrandIle1.GrandIle1
+[2021.04.15-09.59.06:243][ 68]Cmd: DELETE
+[2021.04.15-09.59.06:262][ 68]Cmd: ACTOR DELETE
+[2021.04.15-09.59.06:577][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.04.15-09.59.06:577][ 68]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2021.04.15-09.59.08:811][201]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.04.15-09.59.10:945][201]LogSlate: Window 'Save Content' being destroyed
+[2021.04.15-09.59.11:254][219]Cmd: TRANSACTION UNDO
+[2021.04.15-09.59.11:254][219]LogEditorTransaction: Undo Delete Actors
+[2021.04.15-09.59.14:995][422]Cmd: DELETE
+[2021.04.15-09.59.14:995][422]Cmd: ACTOR DELETE
+[2021.04.15-09.59.15:065][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:070][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:070][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:071][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:071][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:071][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:071][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:071][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:072][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:072][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:072][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:073][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:073][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:073][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:073][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:074][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:074][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:074][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:074][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:074][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:075][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:075][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:075][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:075][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:076][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:076][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:076][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:076][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:076][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:077][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:077][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:077][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:077][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:078][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:078][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:078][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:078][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:078][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:079][422]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.15:084][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2021.04.15-09.59.15:085][422]LogEditorActor: Deleted 39 Actors (0.090 secs)
+[2021.04.15-09.59.17:124][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.15-09.59.18:022][543]LogSlate: Window 'Save Content' being destroyed
+[2021.04.15-09.59.18:060][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/GrandIle1" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.15-09.59.18:066][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.04.15-09.59.18:074][543]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/GrandIle1E00F28254EBF9EEF4D830D8D2370F23E.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle1.umap'
+[2021.04.15-09.59.18:081][543]LogFileHelpers: Saving map 'GrandIle1' took 0.021
+[2021.04.15-09.59.18:117][543]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/GrandIle.GrandIle
+[2021.04.15-09.59.18:117][543]Cmd: MAP LOAD FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.15-09.59.18:117][543]LightingResults: New page: Lighting Build
+[2021.04.15-09.59.18:117][543]LoadErrors: New page: Loading map: GrandIle.umap
+[2021.04.15-09.59.18:117][543]LogWorld: UWorld::CleanupWorld for GrandIle1, bSessionEnded=true, bCleanupResources=true
+[2021.04.15-09.59.18:117][543]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.15-09.59.18:118][543]MapCheck: New page: Map Check
+[2021.04.15-09.59.18:118][543]LightingResults: New page: Lighting Build
+[2021.04.15-09.59.18:123][543]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.15-09.59.18:125][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.04.15-09.59.18:126][543]LogAudio: Display: Audio Device (ID: 1) registered with world 'GrandIle'.
+[2021.04.15-09.59.18:187][543]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.15-09.59.18:187][543]LogAIModule: Creating AISystem for world GrandIle
+[2021.04.15-09.59.18:196][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.15-09.59.18:201][543]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.15-09.59.18:201][543]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.078ms to complete.
+[2021.04.15-09.59.18:201][543]LogFileHelpers: Loading map 'GrandIle' took 0.084
+[2021.04.15-09.59.18:216][543]AssetCheck: New page: Asset Save: GrandIle1
+[2021.04.15-09.59.18:216][543]LogContentValidation: Display: Validating World /Game/Maps/GrandIle1.GrandIle1
+[2021.04.15-09.59.21:973][766]Cmd: EDIT COPY
+[2021.04.15-09.59.23:208][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.04.15-09.59.23:239][835]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/GrandIle1.GrandIle1
+[2021.04.15-09.59.23:240][835]Cmd: MAP LOAD FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/GrandIle1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.15-09.59.23:240][835]LightingResults: New page: Lighting Build
+[2021.04.15-09.59.23:240][835]LoadErrors: New page: Loading map: GrandIle1.umap
+[2021.04.15-09.59.23:241][835]LogWorld: UWorld::CleanupWorld for GrandIle, bSessionEnded=true, bCleanupResources=true
+[2021.04.15-09.59.23:241][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.15-09.59.23:241][835]MapCheck: New page: Map Check
+[2021.04.15-09.59.23:241][835]LightingResults: New page: Lighting Build
+[2021.04.15-09.59.23:246][835]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.15-09.59.23:248][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.04.15-09.59.23:248][835]LogAudio: Display: Audio Device (ID: 1) registered with world 'GrandIle1'.
+[2021.04.15-09.59.23:305][835]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.15-09.59.23:305][835]LogAIModule: Creating AISystem for world GrandIle1
+[2021.04.15-09.59.23:313][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2021.04.15-09.59.23:319][835]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.15-09.59.23:319][835]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.089ms to complete.
+[2021.04.15-09.59.23:319][835]LogFileHelpers: Loading map 'GrandIle1' took 0.079
+[2021.04.15-09.59.25:434][959]Cmd: EDIT PASTE
+[2021.04.15-09.59.30:150][230]Cmd: DELETE
+[2021.04.15-09.59.30:150][230]Cmd: ACTOR DELETE
+[2021.04.15-09.59.30:157][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:157][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:157][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:157][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:158][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:158][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:158][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:158][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:159][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:159][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:159][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:159][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:160][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:160][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:160][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:160][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:161][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:161][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:161][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:161][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:162][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:162][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:162][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:162][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:163][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:163][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:163][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:163][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:163][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:164][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:164][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:164][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:164][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:164][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:165][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:165][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:165][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:165][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:166][230]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.04.15-09.59.30:171][230]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.04.15-09.59.30:172][230]LogEditorActor: Deleted 39 Actors (0.022 secs)
+[2021.04.15-10.00.06:753][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CliffRocks3)
+[2021.04.15-10.00.11:934][733]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_CliffRocks1)
+[2021.04.15-10.00.20:314][231]Cmd: TRANSACTION UNDO
+[2021.04.15-10.00.20:314][231]LogEditorTransaction: Undo Move Actors
+[2021.04.15-10.01.55:433][898]LogContentBrowser: Attempting asset rename: GrandIle1 -> IleAntoine
+[2021.04.15-10.01.55:653][898]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/IleAntoine" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/IleAntoine.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.15-10.01.55:658][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.04.15-10.01.55:668][898]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/IleAntoine5FC78C2A44945AAC0F54D284179D2F39.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/IleAntoine.umap'
+[2021.04.15-10.01.55:676][898]LogFileHelpers: Saving map 'IleAntoine' took 0.024
+[2021.04.15-10.01.55:787][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.04.15-10.01.55:801][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.15-10.01.55:806][898]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.04.15-10.01.55:839][898]AssetCheck: New page: Asset Save: IleAntoine
+[2021.04.15-10.01.55:839][898]LogContentValidation: Display: Validating World /Game/Maps/IleAntoine.IleAntoine
+[2021.04.15-10.02.00:457][174]LogContentBrowser: Deferred new asset file creation: GrandIle1
+[2021.04.15-10.02.00:469][174]LogContentBrowser: Creating deferred item: GrandIle1
+[2021.04.15-10.02.09:075][691]LogContentBrowser: Attempting asset rename: GrandIle1 -> IleYohan
+[2021.04.15-10.02.09:084][691]LogContentBrowser: End creating deferred item GrandIle1
+[2021.04.15-10.02.10:582][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/IleAntoine" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/IleAntoine.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.15-10.02.10:589][779]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.04.15-10.02.10:597][779]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/IleAntoineF775E9C446D6514AAEE91FA2A819F28A.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/IleAntoine.umap'
+[2021.04.15-10.02.10:614][779]AssetCheck: New page: Asset Save: IleAntoine
+[2021.04.15-10.02.10:615][779]LogContentValidation: Display: Validating World /Game/Maps/IleAntoine.IleAntoine
+[2021.04.15-10.02.11:630][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.04.15-10.02.13:178][840]LogSlate: Window 'Save Content' being destroyed
+[2021.04.15-10.02.13:218][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/IleYohan" FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/IleYohan.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.04.15-10.02.13:227][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.04.15-10.02.13:247][840]LogSavePackage: Moving '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Saved/IleYohan4EB6A8C84DC2E9AD1C9DF78B9390F784.tmp' to '../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/IleYohan.umap'
+[2021.04.15-10.02.13:251][840]LogFileHelpers: Saving map 'IleYohan' took 0.033
+[2021.04.15-10.02.13:281][840]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/IleYohan.IleYohan
+[2021.04.15-10.02.13:281][840]Cmd: MAP LOAD FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/IleYohan.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.04.15-10.02.13:281][840]LightingResults: New page: Lighting Build
+[2021.04.15-10.02.13:281][840]LoadErrors: New page: Loading map: IleYohan.umap
+[2021.04.15-10.02.13:321][840]LogWorld: UWorld::CleanupWorld for IleAntoine, bSessionEnded=true, bCleanupResources=true
+[2021.04.15-10.02.13:321][840]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.04.15-10.02.13:321][840]MapCheck: New page: Map Check
+[2021.04.15-10.02.13:321][840]LightingResults: New page: Lighting Build
+[2021.04.15-10.02.13:327][840]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.04.15-10.02.13:328][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.15-10.02.13:335][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.04.15-10.02.13:341][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2021.04.15-10.02.13:341][840]LogAudio: Display: Audio Device (ID: 1) registered with world 'IleYohan'.
+[2021.04.15-10.02.13:408][840]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.04.15-10.02.13:408][840]LogAIModule: Creating AISystem for world IleYohan
+[2021.04.15-10.02.13:415][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.04.15-10.02.13:420][840]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.04.15-10.02.13:420][840]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.084ms to complete.
+[2021.04.15-10.02.13:420][840]LogFileHelpers: Loading map 'IleYohan' took 0.139
+[2021.04.15-10.02.13:438][840]AssetCheck: New page: Asset Save: IleYohan
+[2021.04.15-10.02.13:438][840]LogContentValidation: Display: Validating World /Game/Maps/IleYohan.IleYohan
