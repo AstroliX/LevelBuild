@@ -1001,3 +1001,75 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.05.12-08.11.40:583][435]Cmd: MAP CHECKDEP NOCLEARLOG
 [2021.05.12-08.11.40:584][435]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.092ms to complete.
 [2021.05.12-08.11.40:584][435]LogFileHelpers: Loading map 'IleYohan' took 0.091
+[2021.05.12-08.14.07:310][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.05.12-08.14.07:432][ 75]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/IleMarie.IleMarie
+[2021.05.12-08.14.07:432][ 75]Cmd: MAP LOAD FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/IleMarie.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.12-08.14.07:432][ 75]LightingResults: New page: Lighting Build
+[2021.05.12-08.14.07:432][ 75]LoadErrors: New page: Loading map: IleMarie.umap
+[2021.05.12-08.14.07:435][ 75]LogWorld: UWorld::CleanupWorld for IleYohan, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-08.14.07:435][ 75]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-08.14.07:435][ 75]MapCheck: New page: Map Check
+[2021.05.12-08.14.07:435][ 75]LightingResults: New page: Lighting Build
+[2021.05.12-08.14.07:444][ 75]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.12-08.14.07:448][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.05.12-08.14.07:448][ 75]LogAudio: Display: Audio Device (ID: 1) registered with world 'IleMarie'.
+[2021.05.12-08.14.07:730][ 75]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.12-08.14.07:730][ 75]LogAIModule: Creating AISystem for world IleMarie
+[2021.05.12-08.14.07:743][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2021.05.12-08.14.07:749][ 75]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.12-08.14.07:749][ 75]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.103ms to complete.
+[2021.05.12-08.14.07:749][ 75]LogFileHelpers: Loading map 'IleMarie' took 0.318
+[2021.05.12-08.14.08:395][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.05.12-08.14.08:426][111]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/IleYohan.IleYohan
+[2021.05.12-08.14.08:426][111]Cmd: MAP LOAD FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/IleYohan.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.12-08.14.08:426][111]LightingResults: New page: Lighting Build
+[2021.05.12-08.14.08:426][111]LoadErrors: New page: Loading map: IleYohan.umap
+[2021.05.12-08.14.08:431][111]LogWorld: UWorld::CleanupWorld for IleMarie, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-08.14.08:432][111]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-08.14.08:432][111]MapCheck: New page: Map Check
+[2021.05.12-08.14.08:432][111]LightingResults: New page: Lighting Build
+[2021.05.12-08.14.08:440][111]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.12-08.14.08:443][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.05.12-08.14.08:443][111]LogAudio: Display: Audio Device (ID: 1) registered with world 'IleYohan'.
+[2021.05.12-08.14.08:504][111]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.12-08.14.08:504][111]LogAIModule: Creating AISystem for world IleYohan
+[2021.05.12-08.14.08:512][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.05.12-08.14.08:518][111]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.12-08.14.08:518][111]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.091ms to complete.
+[2021.05.12-08.14.08:518][111]LogFileHelpers: Loading map 'IleYohan' took 0.092
+[2021.05.12-08.14.10:743][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2021.05.12-08.14.10:767][243]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/LevelBuild.LevelBuild
+[2021.05.12-08.14.10:767][243]Cmd: MAP LOAD FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/LevelBuild.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.12-08.14.10:767][243]LightingResults: New page: Lighting Build
+[2021.05.12-08.14.10:767][243]LoadErrors: New page: Loading map: LevelBuild.umap
+[2021.05.12-08.14.10:768][243]LogWorld: UWorld::CleanupWorld for IleYohan, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-08.14.10:769][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-08.14.10:769][243]MapCheck: New page: Map Check
+[2021.05.12-08.14.10:769][243]LightingResults: New page: Lighting Build
+[2021.05.12-08.14.10:774][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.12-08.14.10:775][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.12-08.14.10:776][243]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelBuild'.
+[2021.05.12-08.14.10:825][243]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.12-08.14.10:825][243]LogAIModule: Creating AISystem for world LevelBuild
+[2021.05.12-08.14.10:832][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.05.12-08.14.10:837][243]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.12-08.14.10:837][243]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.072ms to complete.
+[2021.05.12-08.14.10:837][243]LogFileHelpers: Loading map 'LevelBuild' took 0.071
+[2021.05.12-08.14.13:896][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.05.12-08.14.14:043][425]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MergeLevel.MergeLevel
+[2021.05.12-08.14.14:043][425]Cmd: MAP LOAD FILE="../../../../../Rubika/B4/Level Build/LevelBuild/LevelBuild/Content/Maps/MergeLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.05.12-08.14.14:043][425]LightingResults: New page: Lighting Build
+[2021.05.12-08.14.14:044][425]LoadErrors: New page: Loading map: MergeLevel.umap
+[2021.05.12-08.14.14:044][425]LogWorld: UWorld::CleanupWorld for LevelBuild, bSessionEnded=true, bCleanupResources=true
+[2021.05.12-08.14.14:044][425]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.05.12-08.14.14:044][425]MapCheck: New page: Map Check
+[2021.05.12-08.14.14:044][425]LightingResults: New page: Lighting Build
+[2021.05.12-08.14.14:052][425]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.05.12-08.14.14:054][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.05.12-08.14.14:055][425]LogAudio: Display: Audio Device (ID: 1) registered with world 'MergeLevel'.
+[2021.05.12-08.14.14:301][425]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.05.12-08.14.14:301][425]LogAIModule: Creating AISystem for world MergeLevel
+[2021.05.12-08.14.14:316][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.05.12-08.14.14:321][425]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.05.12-08.14.14:321][425]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.102ms to complete.
+[2021.05.12-08.14.14:321][425]LogFileHelpers: Loading map 'MergeLevel' took 0.277
